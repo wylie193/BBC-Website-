@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <link href="BBC_css" rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <header>
+            <!--Everything in the navigation bar--> 
+            <nav class="menu">
+ 
+            <!--Unordered list inside the nav bar-->        
+                <ul>
+
+            <!--Logo image inside the nav bar-->        
+                    <img src="https://adriancabello.com/wp-content/uploads/2021/06/pngfind.com-bbc-logo-png-6836449.png" alt="BBC logo" alt="BBC logo">
+                  <li><a href="#">Sign in</a></li>
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">News</a></li>
+                  <li><a href="#">Sports</a></li>
+                  <li><a href="#">Reels</a></li>
+                  <li><a href="#">Worklife</a></li>
+                  <li><a href="#">Travel</a></li>
+                  <li><a href="#">Future</a></li>
+                  <li><a href="#">Culture</a></li>
+                  <li><a href="#">More</a></li>
+                  <li class="search-item"><a href="#">Search</a></li>
+                </ul>
+              </nav>
+
+                </li>
+            </ul>
+        </header>
+
+        <!--Main image-->
+        <img src="https://adriancabello.com/wp-content/uploads/2021/06/pngfind.com-bbc-logo-png-6836449.png" class="main-image" alt="Israel-UAE">
+        <h1 id="first-heading">Welcome to BBC.com</h1>
+        <h1 id="first-date">Thursday, 13August</h1>
+        <section>
+            <nav class="menu">
+                <img src="https://ichef.bbci.co.uk/news/976/cpsprodpb/1676D/production/_113931029_composite.jpg" alt="Israel and UAE image">
+            <h1 id="second-heading">Israel and UAE strike historic peace deal</h1>
+            <p>Israel and UAE agree to normalise relations, making the third Israel-Arab peace deal.</p>
+            <span>MIDDLE EAST</span>
+        </section>
+        <section>
+            <img>
+            <h3>Americans go home: Tension at Canada-US border</h3>
+            <span>MIDDLE EAST</span>
+        </section>
+        <section>
+            <img>
+            <h3>Americans go home: Tension at Canada-US border</h3>
+            <span>MIDDLE EAST</span>
+        </section>
+        <section>
+            <img>
+            <h3>How will the world vaccinate seven billion people</h3>
+            <span>HEALTH</span>
+        </section>
+        <section>
+            <img>
+            <h3>The online 'productivity gym'</h3>
+            <span>WORKLIFE</span>
+        </section>
+        <section>
+            <img>
+            <h3>The folk singer murdered for his music</h3>
+            <span>CULTURE</span>
+        </section>
+        <section>
+            <h2>I News</h2>
+            <img>
+            <h3>Biden and Harris say Trump has left US 'in tatters'</h3>
+            <p>Joe Biden and running mate Kamala Harris call President Donald Trump a "whining" incompetent leader</p>
+            <span>US SELECTION 2020</span>
+        </section>
+        <section>
+            <img>
+            <h3>Women form 'solidarity chains' in Belarus protests</h3>
+            <p>Women take to the streets of Minsk dressed in white as they demand an end to police brtality.</p>
+            <span>EUROPE</span>
+        </section>
+        <img>
+            <h3>Trump says low-pressure shower heads won't wash</h3>
+            <p>The US calls for rules to be eased after Donald Trump complained of issues washing his hair.</p>
+            <span>US & CANADA</span>
+        </section>
+        
+</body>
+</html>
